@@ -1,4 +1,8 @@
 #include	"unp.h"
+#include <strings.h>
+#include <string.h>
+#include <arpa/inet.h>
+#include <sys/stat.h>
 
 int main(int argc, char **argv)
 {
